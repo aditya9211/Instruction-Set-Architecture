@@ -1,7 +1,15 @@
 # Instruction-Set-Architecture
 
+Instructions:
+	• Run "part1.c" using gcc compiler by giving Assembly Language Instructions From Console
+	• then Run "part2.c" , and get the desired results.
+	
+	
+	
+	
 • 	Developed an I.S.A using two pass assembler which performs 
 	Basic Arithmetic and Logical Operations
+	
 • 	I.S.A which understand user inputs(assembly language codes (32 bits)) and gives desired outputs
 
 
