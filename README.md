@@ -14,7 +14,8 @@ Info:
 • 	Developed an I.S.A using two pass assembler which performs 
 	Basic Arithmetic and Logical Operations
 	
-• 	I.S.A which understand user inputs(assembly language codes (32 bits)) and gives desired outputs
+• 	I.S.A which understand user inputs(assembly language codes (32 bits) and gives desired outputs
+
 
 
 Two pass assembler Implementation with hypothetical Instruction Set Architecture using C .
